@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello, there! 👋
 
 I'm Peter, a passionate Software Developer from Ghana. Welcome to my GitHub profile!
 
@@ -14,36 +14,6 @@ I'm Peter, a passionate Software Developer from Ghana. Welcome to my GitHub prof
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌱 I'm Currently Learning
-
-- [Your Current Learning Focus]
-- [Another Learning Goal]
-
-## 🚀 Projects
-
-Here are some projects I'm proud of:
-
-1. [Project 1](Link to Project 1) - Brief description.
-2. [Project 2](Link to Project 2) - Brief description.
-
-## 📫 Let's Connect
-
-- Twitter: [@YourTwitterHandle](https://twitter.com/p_azubire)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/peter-azubire/)
-- Portfolio: [Your Portfolio](https://azubire.github.io)
-
-## 💬 Ask me about
-
-Feel free to reach out if you want to discuss:
-
-- [Any specific topic or expertise]
-- [Another area of interest]
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=contribs,prs&count_private=true&theme=radical)
-
-<!-- Optional: Add additional GitHub stats or custom content -->
 
 <!-- ## 🎧 Now Playing
 [![Spotify](https://spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/your-username) -->
