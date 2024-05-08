@@ -1,6 +1,6 @@
 # Hello, there! 👋
 
-I'm Peter, a passionate Software Developer from Ghana. Welcome to my GitHub profile!
+I'm Peter, a passionate Software Developer from Ghana. let's connect!
 
 # 💻 Tech Stack:
 
